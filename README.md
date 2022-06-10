@@ -1,4 +1,4 @@
-<b>Friends Sitcom Dataset Visualization</b><br />
+<b>Friends Sitcom Dataset Visualization (Coursework)</b><br />
 Data from: https://github.com/EmilHvitfeldt <br />
 Data analysis was conducted through R where baseline images were generated using ggplot2. Final visualizations were created using Inkscape.
 
