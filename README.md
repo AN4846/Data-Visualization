@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 <b>Friends Sitcom Dataset Visualization</b>
 </p><br />
 Data from: https://github.com/EmilHvitfeldt <br />
