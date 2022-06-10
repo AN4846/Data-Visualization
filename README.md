@@ -1,5 +1,5 @@
 <p align="center">
-Friends Sitcom Dataset Visualization 
+**Friends Sitcom Dataset Visualization**
 </p><br />
 Data from: https://github.com/EmilHvitfeldt <br />
 Data analysis was conducted through R, baseline images were generated using ggplot2, and final visualizations were created in Inkscape.
